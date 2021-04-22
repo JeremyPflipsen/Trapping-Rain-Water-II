@@ -1,4 +1,4 @@
-This is my solution to the LeetCode question Trapping Rain Water II. It works similary to the solution of Trapping Rain Water I quesiton on LeetCode, which solves the 1D case. My explanation will be more clear if you first understand the solution to that question.
+This is my solution to the LeetCode question Trapping Rain Water II. It works similary to the solution of Trapping Rain Water I quesiton on LeetCode, which solves the 1D case. My explanation will be more clear if you first understand the solution to that question. I made a React app that visualizes this algorithm, which you can see here: https://jeremypflipsen.github.io/Trapping-Rain-Water-II/index.html.
 
 In the 1D case, we have a left and right pointer that point the left and right edge of the area we are considering. In the 2D case, this "edge" becomes a "border".
 
