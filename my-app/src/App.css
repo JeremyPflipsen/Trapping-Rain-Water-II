@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.flexbox {
+  display: flex;
+  flex-direction: row;
+  margin: 50px;
+  /* align-items: center; */
+  /* justify-content: center */
+}
+
+.grid {
+  margin: 0 10% 0 5%;
+}
+
+.Header {
+  color: white;
+}

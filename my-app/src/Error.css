@@ -1,0 +1,17 @@
+.ErrorLegend{
+    width: 20%;
+    text-align: left;
+}
+
+.Error {
+    color: white;
+    font-size: 50px;
+    width: 100%;
+    margin: 0 0 15% 0;
+}
+
+.backtrackHasSolution {
+    color: white;
+    font-size: 20px;
+    width: 10%;
+  }

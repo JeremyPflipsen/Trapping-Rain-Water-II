@@ -1,0 +1,11 @@
+.Legend{
+    margin: 0 15% 0% 0;
+    color: white;
+    font-size: 20px;
+    text-align: left;
+    width: 100%;
+}
+
+.Legend-item{
+    margin: 0 0 5% 0;
+}
