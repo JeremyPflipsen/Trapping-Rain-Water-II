@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Trapping-Rain-Water-II/static/css/main.5b4816c3.chunk.css",
+    "main.js": "/Trapping-Rain-Water-II/static/js/main.dd1981fa.chunk.js",
+    "main.js.map": "/Trapping-Rain-Water-II/static/js/main.dd1981fa.chunk.js.map",
+    "runtime-main.js": "/Trapping-Rain-Water-II/static/js/runtime-main.824c18b0.js",
+    "runtime-main.js.map": "/Trapping-Rain-Water-II/static/js/runtime-main.824c18b0.js.map",
+    "static/js/2.e0e0ba24.chunk.js": "/Trapping-Rain-Water-II/static/js/2.e0e0ba24.chunk.js",
+    "static/js/2.e0e0ba24.chunk.js.map": "/Trapping-Rain-Water-II/static/js/2.e0e0ba24.chunk.js.map",
+    "index.html": "/Trapping-Rain-Water-II/index.html",
+    "static/css/main.5b4816c3.chunk.css.map": "/Trapping-Rain-Water-II/static/css/main.5b4816c3.chunk.css.map",
+    "static/js/2.e0e0ba24.chunk.js.LICENSE.txt": "/Trapping-Rain-Water-II/static/js/2.e0e0ba24.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.824c18b0.js",
+    "static/js/2.e0e0ba24.chunk.js",
+    "static/css/main.5b4816c3.chunk.css",
+    "static/js/main.dd1981fa.chunk.js"
+  ]
+}
